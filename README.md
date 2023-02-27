@@ -1,4 +1,4 @@
-# pyngPong
+# Pyng Pong
 This project is a simple yet complete implementation of the classic Pong game in python using the pygame library.
 
 ## Inspiration
