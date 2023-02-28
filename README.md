@@ -9,7 +9,7 @@ To play the game, just run the *main.py* script in a terminal by using the comma
 ```bash
 python main.py
 ```
-Just make sure you have pygame installed, otherwise you can install using the command:
+Just make sure you have pygame installed, otherwise you can install it using the command:
 ```bash
 pip install pygame
 ```
