@@ -14,4 +14,4 @@ Just make sure you have pygame installed, otherwise you can install using the co
 pip install pygame
 ```
 ## Commands
-Press the UP and DOWN keys to move your paddle, while it moves you can press the ctrl key to move it faster! The opponent will try to beat you. The first one to reach seven points wins, have fun!
+Press the UP and DOWN keys to move your paddle. The game has no end, but you can press the 'q' key to quit the game.
