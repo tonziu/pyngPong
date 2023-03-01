@@ -20,7 +20,7 @@ class Quit():
         pass
 
     def render(self):
-        self.surf.fill((32, 80, 135))
+        self.surf.fill((0, 0, 0))
         text_rect = self.text_surf.get_rect()
         text_rect.center = self.surf.get_rect().center
         self.surf.blit(self.text_surf, text_rect)

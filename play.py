@@ -70,7 +70,8 @@ class Play():
         self._bounce(collision) 
 
     def render(self):
-        self.surf.fill((55, 100, 150))
+        #self.surf.fill((55, 100, 150))
+        self.surf.fill((0, 0, 0))
         self.player.render()
         self.opponent.render()
         self.ball.render()

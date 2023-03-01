@@ -29,7 +29,7 @@ class Player():
         self.dy = dy
 
     def render(self):
-        pygame.draw.rect(self.surf, (20, 25, 30), self.rect)
+        pygame.draw.rect(self.surf, (255, 255, 255), self.rect)
 
 
     
