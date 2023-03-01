@@ -15,3 +15,8 @@ pip install pygame
 ```
 ## Commands
 Press the UP and DOWN keys to move your paddle. The game has no end, but you can press the 'q' key to quit the game.
+
+## Screenshot
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62934042/222103038-2074a5d1-1dfb-4579-929b-dcd70139a8da.png" width="500" height="400">
+</div>
